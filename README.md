@@ -59,8 +59,8 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=EgorTolbaev&show_icons=true&theme=react&count_private=true" alt="egortolbaev" width="50%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EgorTolbaev&theme=react" width="50%" >
+    <img src="https://github-readme-stats.vercel.app/api?username=EgorTolbaev&show_icons=true&theme=react&count_private=true" alt="egortolbaev" width="49%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EgorTolbaev&theme=react" width="49%" >
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgorTolbaev&layout=compact&langs_count=10&hide=java&theme=react" width="50%" >
     </p>
