@@ -1,82 +1,86 @@
-<h2 align="center">
-  Hi there. I am Egor. Welcome to my Profile!!!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+<div align="center">
 
-<h3>
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
 
--  🔭 I am currently working as a Back End Engineer.
--  🌱 Currently learning : Python.
--  📫 How to reach me: <a href="mailto:egor05.09.97@gmail.com">
-![Email Me!!](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/egortolbaev/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=500&lines=Hi+there.+I+am+Egor.;Welcome+to+my+Profile!!!;I+am+a+full-stack+web+developer.)](https://git.io/typing-svg)
 
-</h3>
+</div>
 
-## Tech Stack
-### 😝 Programming Languages
-<p>
-    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-    <img alt="Org" src="https://img.shields.io/badge/ORG-%231572B6.svg?style=for-the-badge&logo=org&logoColor=white"/>
-</p>
+<div align="center">
+    <a href="mailto:egor05.09.97@gmail.com">
+        <img title="google" alt="google" style="margin: 10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+    </a>
+    <a href="https://www.linkedin.com/in/egortolbaev/">
+        <img title="linkedin" alt="linkedin" style="margin: 10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    </a>
+</div>
 
-### 📚 Frameworks and libraries
-<p>
-    <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-    <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+<h2>💻 Tech Stack</h2>
 
-### 📙 Databases
-<p>
-    <img alt="MSSQL" src ="https://img.shields.io/badge/mssql-%23323330.svg?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white"/>
-    <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### ✔️ Version Control
-<p>
-    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-
-</p>
-
-### ✍ IDEs/Editors
-<p>
-    <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-    <img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"/>
-    <img alt="Emacs" src="https://img.shields.io/badge/Emacs-%2300599C.svg?style=for-the-badge&logo=GNUEmacs&logoColor=white"/>
-</p>
-
-## 📊 Github stats
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=EgorTolbaev&show_icons=true&theme=react&count_private=true" alt="egortolbaev" width="49%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EgorTolbaev&theme=react" width="49%" >
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgorTolbaev&layout=compact&langs_count=10&hide=java&theme=react" width="50%" >
-    </p>
+<details>
+    <details> 
+        <summary>:bulb: Programming Languages</summary>
+            <div align="center">  
+                <code><img title="Csharp" alt="csharp" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
+                <code><img title="PHP" alt="php"  style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
+                <code><img title="HTML 5" alt="html5"  style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+                <code><img title="CSS 3" alt="css3"  style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+                <code><img title="JavaScript" alt="javascript"  style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+                <code> <img title="Markdown" alt="markdown"  style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
+                <code> <img title="Org" alt="org"  style="margin: 10px" height="50" src="https://img.shields.io/badge/-%231572B6.svg?logo=org&logoColor=white"/></code>
+                </div>
+            </details>
+    <details> 
+        <summary>📚 Frameworks and libraries</summary>
+            <div align="center">  
+                <code><img title="DotNet" alt="dot-net" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /></code>
+                <code><img title="Laravel" alt="laravel" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" /></code>
+                <code> <img title="Bootstrap" alt="bootstrap" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /></code>
+            </div>
+    </details>
+    <details> 
+        <summary>📙 Databases</summary>
+            <div align="center"> 
+                <code><img title="MicrosoftSQLServer" alt="microsoftsqlserver" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /></code>
+                <code><img title="Postgresql" alt="postgresql" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /></code>
+                <code><img title="Oracle" alt="oracle" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /></code>
+            </div>
+    </details>
+    <details> 
+        <summary>✔️ Version Control</summary>
+            <div align="center"> 
+                <code><img title="Git" alt="git" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+                <code><img title="GitHub" alt="github" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+            </div>
+    </details>
+    <details> 
+        <summary>✍ IDEs/Editors</summary>
+            <div align="center"> 
+                <code><img title="VisualStudio" alt="visualstudio" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></code>
+                <code><img title="VSCode" alt="vscode" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+                <code><img title="PHPStorm" alt="phpstorm" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" /></code>
+                <code><img title="GNUEmacs" alt="GNUEmacs" style="margin: 10px" height="50" src="https://img.shields.io/badge/-%23734F96.svg?logo=GNUEmacs&logoColor=white" /></code>
+            </div>
+    </details>
 </details>
 
-<!--
-**EgorTolbaev/EgorTolbaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<h2>:octocat: My GitHub Stats</h2>
 
-Here are some ideas to get you started:
+<details>
+    <details>
+        <summary>General Stats</summary>
+            <img src="https://github-readme-stats.vercel.app/api?username=EgorTolbaev&show_icons=true&theme=react&count_private=true" alt="egortolbaev">
+    </details>
+    <details>
+        <summary>Top language</summary>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgorTolbaev&layout=compact&langs_count=10&hide=java&theme=react">
+            <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+    </details>
+    <details>
+        <summary>Streak stats</summary>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=EgorTolbaev&theme=react">
+    </details>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">💻 Check Out My Repos ⬇️ </h2>
