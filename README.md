@@ -6,6 +6,27 @@
 
 </div>
 
+---
+
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif"
+     style="margin-top:20px;"
+     height="190px"
+     align="left" />
+
+```lisp
+(setq egor
+      '((name . "Egor Tolbaev")
+	(pronouns . ("He" "Him"))
+	(age . 24)
+	(work-place . ((company . "Energosbyt")
+		       (position . "Software Engineer")))
+	(education . "B.Sc. in Informatics and Computer Engineering")
+	(city . "Yekaterinburg, Russia")
+	(interests . ("programming" "web" "emacs"))))
+```
+
+---
+
 <div align="center">
     <a href="mailto:egor05.09.97@gmail.com">
         <img title="google" alt="google" style="margin: 10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
@@ -15,7 +36,7 @@
     </a>
 </div>
 
-<h2>💻 Tech Stack</h2>
+<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Tech Stack</h2>
 
 <details>
     <details> 
@@ -65,22 +86,22 @@
 </details>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<h2>:octocat: My GitHub Stats</h2>
+<h2><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> My GitHub Stats</h2>
 
 <details>
     <details>
-        <summary>General Stats</summary>
+        <summary>📊 General Stats</summary>
             <img src="https://github-readme-stats.vercel.app/api?username=EgorTolbaev&show_icons=true&theme=react&count_private=true" alt="egortolbaev">
     </details>
     <details>
-        <summary>Top language</summary>
+        <summary>🔧 Top language</summary>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgorTolbaev&layout=compact&langs_count=10&hide=java&theme=react">
             <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
     </details>
     <details>
-        <summary>Streak stats</summary>
+        <summary>📈 Streak stats</summary>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=EgorTolbaev&theme=react">
     </details>
 </details>
 
-<h2 align="center">💻 Check Out My Repos ⬇️ </h2>
+<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Check Out My Repos ⬇️ </h2>
