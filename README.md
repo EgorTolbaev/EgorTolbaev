@@ -2,7 +2,7 @@
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=500&lines=Hi+there.+I+am+Egor.;Welcome+to+my+Profile!!!;I+am+a+full-stack+web+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=500&lines=Hi+there.+I+am+Egor.;Welcome+to+my+Profile!!!;I+am+a+backend+developer.)](https://git.io/typing-svg)
 
 </div>
 
@@ -39,9 +39,9 @@
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Tech Stack</h2>
 
 <details>
-    <details> 
+    <details>
         <summary>:bulb: Programming Languages</summary>
-            <div align="center">  
+            <div align="center">
                 <code><img title="Csharp" alt="csharp" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
                 <code><img title="PHP" alt="php"  style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
                 <code><img title="HTML 5" alt="html5"  style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
@@ -51,32 +51,32 @@
                 <code> <img title="Org" alt="org"  style="margin: 10px" height="50" src="https://img.shields.io/badge/-%231572B6.svg?logo=org&logoColor=white"/></code>
                 </div>
             </details>
-    <details> 
+    <details>
         <summary>📚 Frameworks and libraries</summary>
-            <div align="center">  
+            <div align="center">
                 <code><img title="DotNet" alt="dot-net" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /></code>
                 <code><img title="Laravel" alt="laravel" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" /></code>
                 <code> <img title="Bootstrap" alt="bootstrap" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /></code>
             </div>
     </details>
-    <details> 
+    <details>
         <summary>📙 Databases</summary>
-            <div align="center"> 
+            <div align="center">
                 <code><img title="MicrosoftSQLServer" alt="microsoftsqlserver" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /></code>
                 <code><img title="Postgresql" alt="postgresql" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /></code>
                 <code><img title="Oracle" alt="oracle" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /></code>
             </div>
     </details>
-    <details> 
+    <details>
         <summary>✔️ Version Control</summary>
-            <div align="center"> 
+            <div align="center">
                 <code><img title="Git" alt="git" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
                 <code><img title="GitHub" alt="github" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
             </div>
     </details>
-    <details> 
+    <details>
         <summary>✍ IDEs/Editors</summary>
-            <div align="center"> 
+            <div align="center">
                 <code><img title="VisualStudio" alt="visualstudio" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></code>
                 <code><img title="VSCode" alt="vscode" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
                 <code><img title="PHPStorm" alt="phpstorm" style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" /></code>
